@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm , a current Statistics master student.
+I'm M. Liu, a current graduate student majoring in Statistics.
+
 <!--
 **lmqxwm/lmqxwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

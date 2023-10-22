@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm M. Liu, a current graduate student majoring in Statistics.
+I'm M. Liu, a second-year master student in Statistics at the University of Chicago. Here I'm fortunate to get the guidance of prof. Barber and prof. Aragam.
+
+Prior to UChicago, I obtained my Bachelor of Science degree in Statistics at Beijing Normal Unversity.
+
+My current research interests lie in the intersection of causal inference, graphical model, distribution-free inference and generalized machine learning.
 
 <!--
 **lmqxwm/lmqxwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

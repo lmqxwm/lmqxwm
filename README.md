@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm M. Liu, a second-year master student in Statistics at the University of Chicago. Here I'm fortunate to get the guidance of prof. Barber and prof. Aragam. Prior to UChicago, I obtained my Bachelor of Science degree in Statistics at Beijing Normal Unversity.
+I'm M. Liu, a second-year master student in Statistics at the University of Chicago. Here I'm fortunate to work with prof. Barber and prof. Aragam. Prior to UChicago, I obtained my Bachelor of Science degree in Statistics at Beijing Normal Unversity.
 
 My current research interests lie in the intersection of distribution-free inference, graphical model, causal inference and generalized machine learning.
 

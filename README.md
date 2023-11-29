@@ -20,7 +20,7 @@ Experimental results later...<br />
 [**Pytorch Version**](https://github.com/lmqxwm/Notears_pytorch)<br />
 ***
 **Sep 2021 - May 2022**<br />
-Under supervision of Dr. Renjun Xu, we replicated biologially informed network, where the first layer is randomly connected and the following layers are connected according to their gene-pathway relationships. Then we collected public data for stomach, colorectal and liver cancer, and applied the model on these three datasets, with the hope to identify domain-unique and common genetic variation sites.<br />
+Under supervision of Dr. Renjun Xu, we replicated biologially informed network, where the first layer is randomly connected and the following layers are connected according to their gene-pathway relationships. Then we collected public data for stomach, colorectal and liver cancer, and applied the model on these three datasets, with the hope to identify domain-specific and common genetic variation sites.<br />
 ***Reference**: Elmarakeby, H.A., Hwang, J., Arafeh, R. et al. Biologically informed deep neural network for prostate cancer discovery. Nature 598, 348–352 (2021).*
 - Stomach cancer
 <div align="left">

@@ -14,11 +14,8 @@ ExtraMAE
 We tackled the challenge to generate synthetic financial time series data for downstream tasks to compensate for financial data's expensiveness and scarcity. Here we used the supervised learning method to train the masked autoencoder model to complete time series generation and found its superiority. I was mainly responsible for completing partial experimental results, comparing with some benchmark models and writing some parts in the paper.
 
 
-
-
-
-We tackled the challenge to generate synthetic financial time series data for downstream tasks to compensate for financial data's expensiveness and scarcity. Here we used the supervised learning method to train the masked autoencoder model to complete time series generation and found its superiority. I was mainly responsible for completing partial experimental results, comparing with some benchmark models and writing some parts in the paper.
-
+More about me:
+![meat1123](https://github.com/lmqxwm/lmqxwm/blob/main/1123.JPG)
 
 <!--
 **lmqxwm/lmqxwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

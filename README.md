@@ -25,7 +25,7 @@ We worked on generating synthetic financial time series data for downstream task
 <img src="1123.JPG" width=20% />
 </div>
 
-<font color="green">I love exploration and challenges. If you would like to walk along Lake Michigan in Chicago, feel free to [reach out](mqliu@uchicago.edu).</font>
+<font color="green">I love exploration and challenges. If you would like to walk along Lake Michigan in Chicago, feel free to <a href="mailto:mqliu@uchicago.edu">reach out ✉️</a>.</font>
 ***
 
 

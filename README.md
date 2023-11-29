@@ -41,7 +41,7 @@ Under supervision of Dr. Renjun Xu, we replicated biologially informed network, 
 **Aug 2021 - Jan 2022** <br />
 **ExtraMAE** 🔗[paper](https://arxiv.org/abs/2201.07006) <br />
 **Collaborators**: Mengyue Zha, SiuTim Wong, Tong Zhang, Kani Chen<br />
-We worked on generating synthetic financial time series data for downstream tasks to compensate for financial data's expensiveness and scarcity. Here we used the supervised learning method, a masked autoencoder model, to complete time series generation and found its superiority in various downstream tasks such as time series classification, prediction, and imputation. . We detailed the model and its outstanding performance comparing to other benchmark models in the paper。<br />
+We worked on generating synthetic financial time series data for downstream tasks to compensate for financial data's expensiveness and scarcity. Here we used the supervised learning method, a masked autoencoder model, to complete time series generation and found its superiority in various downstream tasks such as time series classification, prediction, and imputation. We detailed the model and its outstanding performance comparing to other benchmark models in the paper。<br />
 **Sources**: [ExtraMAE code](https://github.com/Dolores2333/ExtraMAE); [One benchmark C-RNN-GAN code](https://github.com/lmqxwm/C-RNN-GAN)
 <div align="left">
 <img src="ExtraMAE.png" width=80% />

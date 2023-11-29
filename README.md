@@ -44,16 +44,17 @@ Under supervision of Dr. Renjun Xu, we replicated biologially informed network, 
 We worked on generating synthetic financial time series data for downstream tasks to compensate for financial data's expensiveness and scarcity. Here we used the supervised learning method, a masked autoencoder model, to complete time series generation and found its superiority in various downstream tasks such as time series classification, prediction, and imputation. . We detailed the model and its outstanding performance comparing to other benchmark models in the paper。<br />
 **Sources**: [ExtraMAE code](https://github.com/Dolores2333/ExtraMAE); [One benchmark C-RNN-GAN code](https://github.com/lmqxwm/C-RNN-GAN)
 <div align="left">
-<img src="ExtraMAE.png" width=60% />
+<img src="ExtraMAE.png" width=80% />
 </div>
 
 ***
 ### More about me:
 <div align="left">
-<img src="1123.JPG" width=20% />
+<img src="1123.JPG" width=40% />
 </div>
 
-<font color="green">I love exploration and challenges. If you would like to walk along Lake Michigan in Chicago, feel free to [reach out✉️](mqliu@uchicago.edu).</font>
+ - I love exploration and challenges.
+ - If you would like to walk along Lake Michigan in Chicago, feel free to [reach out✉️](mqliu@uchicago.edu).</font>
 ***
 
 

@@ -15,7 +15,7 @@ We tackled the challenge to generate synthetic financial time series data for do
 
 
 More about me:
-![meat1123](https://github.com/lmqxwm/lmqxwm/blob/main/1123.JPG)
+![meat1123](1123.JPG)
 
 <!--
 **lmqxwm/lmqxwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

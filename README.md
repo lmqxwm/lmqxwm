@@ -53,7 +53,8 @@ We worked on generating synthetic financial time series data for downstream task
 <img src="1123.JPG" width=40% />
 </div>
 
- - I love exploration and challenges.
+ - I love exploration and challenges. ♒️
+ - Recent activities: ⛷🧩🏸🎹⛰🚴🏻‍♀️
  - If you would like to walk along Lake Michigan in Chicago, feel free to [reach out✉️](mqliu@uchicago.edu).</font>
 ***
 

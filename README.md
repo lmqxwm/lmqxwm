@@ -5,11 +5,31 @@ I'm Mengqi Liu, a second-year master student in Statistics at the University of 
 My current research interests lie in the intersection of distribution-free inference, graphical model, causal inference and generalized machine learning.
 
 
+
+***
+**Current project about validity and power exploration for the local permutation test**
+Experimental results later...
+**Initial replication of **
+***
+
+***
 **Sep 2021 - May 2022**<br />
+Under supervision of Dr. Renjun Xu, we replicated biologially informed network, where the first layer is randomly connected and the following layers are connected according to their gene-pathway relationships. Then we collected public data for stomach, colorectal and liver cancer, and applied the model on these three datasets, with the hope to identify domain-unique and common genetic variation sites.<br />
+***Reference**: Elmarakeby, H.A., Hwang, J., Arafeh, R. et al. Biologically informed deep neural network for prostate cancer discovery. Nature 598, 348–352 (2021).*
+- Stomach cancer
+<div align="left">
+<img src="stomach.png" width=60% />
+</div>
+- Colorectal cancer
+<div align="left">
+<img src="colorectal.png" width=60% />
+</div>
+- Liver cancer
+<div align="left">
+<img src="liver.png" width=60% />
+</div>
 
-We learned CS224 and CS231n lessons of Stanford at the beginning for subsequent research. Then we reproduced biologically informed networks in Tensorflow, where the first layer is randomly connected and the following layers are connected according to their gene-pathway relationships, in order to increase interpretability of deep learning models through biological information.  We trained it on the collected data of breast cancer, stomach cancer, etc., and discovered the commonalities and unique gene pathways of different cancers.
-
-
+***
 **Aug 2021 - Jan 2022** <br />
 **ExtraMAE** 🔗[paper](https://arxiv.org/abs/2201.07006) <br />
 **Collaborators**: Mengyue Zha, SiuTim Wong, Tong Zhang, Kani Chen<br />
@@ -20,12 +40,12 @@ We worked on generating synthetic financial time series data for downstream task
 </div>
 
 ***
-### More about ME:
+### More about me:
 <div align="left">
 <img src="1123.JPG" width=20% />
 </div>
 
-<font color="green">I love exploration and challenges. If you would like to walk along Lake Michigan in Chicago, feel free to <a href="mailto:mqliu@uchicago.edu">reach out ✉️</a>.</font>
+<font color="green">I love exploration and challenges. If you would like to walk along Lake Michigan in Chicago, feel free to [reach out](mqliu@uchicago.edu).</font>
 ***
 
 

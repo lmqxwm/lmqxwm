@@ -7,11 +7,17 @@ My current research interests lie in the intersection of distribution-free infer
 
 
 ***
-**Current project about validity and power exploration for the local permutation test**
-Experimental results later...
-**Initial replication of **
+**Current project about validity and power exploration for the local permutation test**<br />
+**Supervisor**: Rina Barber<br />
+Experimental results later...<br />
+[**Initial Code**](https://github.com/lmqxwm/LPT)<br />
+[**Second Version**](https://github.com/lmqxwm/LPT2)<br />
 ***
-
+**Current project about global minimum check and possible solutions for NOTEARS**<br />
+**Supervisor**: Bryon Aragam<br />
+Experimental results later...<br />
+[**Initial Code**](https://github.com/lmqxwm/Notears_)<br />
+[**Pytorch Version**](https://github.com/lmqxwm/Notears_pytorch)<br />
 ***
 **Sep 2021 - May 2022**<br />
 Under supervision of Dr. Renjun Xu, we replicated biologially informed network, where the first layer is randomly connected and the following layers are connected according to their gene-pathway relationships. Then we collected public data for stomach, colorectal and liver cancer, and applied the model on these three datasets, with the hope to identify domain-unique and common genetic variation sites.<br />
@@ -20,10 +26,12 @@ Under supervision of Dr. Renjun Xu, we replicated biologially informed network, 
 <div align="left">
 <img src="stomach.png" width=60% />
 </div>
+
 - Colorectal cancer
 <div align="left">
 <img src="colorectal.png" width=60% />
 </div>
+
 - Liver cancer
 <div align="left">
 <img src="liver.png" width=60% />

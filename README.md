@@ -12,7 +12,7 @@ My current research interests lie in the intersection of distribution-free infer
 Experimental results later...<br />
 [**Initial Code**](https://github.com/lmqxwm/LPT)<br />
 [**Second Version**](https://github.com/lmqxwm/LPT2)<br />
-[**Interesting Presentation**](https://github.com/lmqxwm/lmqxwm/files/pre_1116.pdf)<br />
+[**Interesting Presentation**](https://github.com/lmqxwm/lmqxwm/blob/main/files/pre_1116.pdf)<br />
 ***
 **Current project about global minimum check and possible solutions for NOTEARS**<br />
 **Supervisor**: Bryon Aragam<br />

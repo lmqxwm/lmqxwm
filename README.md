@@ -21,8 +21,8 @@ Experimental results later...<br />
 [**Pytorch Version**](https://github.com/lmqxwm/Notears_pytorch)<br />
 ***
 **Mar 2023 - Apr 2023**<br />
-Reproduced randomization-t and randomization-c algorithm from [Paper](https://doi.org/10.1093/qje/qjy029). Original paper integrates a bunch of econometric studies and use randomization tests to test their significance results, saying that radomization tests yield 33% to 49% fewer statistically significant results than conventional tests.
-[**Reproduction Code**](https://github.com/lmqxwm/repo_Channellingfisher/tree/main)
+Reproduced randomization-t and randomization-c algorithm from [Paper](https://doi.org/10.1093/qje/qjy029). Original paper integrates a bunch of econometric studies and use randomization tests to test their significance results, saying that radomization tests yield 33% to 49% fewer statistically significant results than conventional tests.br />
+[**Reproduction Code**](https://github.com/lmqxwm/repo_Channellingfisher/tree/main)br />
 ***
 **Sep 2021 - May 2022**<br />
 Under supervision of Dr. Renjun Xu, we replicated biologially informed network, where the first layer is randomly connected and the following layers are connected according to their gene-pathway relationships. Then we collected public data for stomach, colorectal and liver cancer, and applied the model on these three datasets, with the hope to identify domain-specific and common genetic variation sites.<br />
